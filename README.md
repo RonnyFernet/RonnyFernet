@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RonnyFernet
-- 👀 I’m interested in worms
-- 🌱 I’m currently learning worm biology
-- 💞️ I’m looking to collaborate on worm projects
-- 📫 How to reach me wormlover@hotmail.com
+- 👀 I’m interested in frogs
+- 🌱 I’m currently learning frog biology
+- 💞️ I’m looking to collaborate on frog projects
+- 📫 How to reach me froglover@hotmail.com
 
 <!---
 RonnyFernet/RonnyFernet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
